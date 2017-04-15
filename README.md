@@ -1,5 +1,7 @@
-# DAND
+# Investigate a Data Set
 
-## Repo for Udacity - Data Analyst Nanodegree Program.
+As part of P2 - Investigating the Titanic Data Set.
 
-Contains Notes and Source Code for all Project Submissions
+CSV data included in the repo.
+
+Data Set Explaination -> https://www.kaggle.com/c/titanic/data
